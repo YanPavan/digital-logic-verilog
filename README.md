@@ -28,6 +28,8 @@ The repository includes Verilog testbenches used to:
 - Waveform analysis
 - Testing and debugging
 
+## Images
+
 ![4-to-1 MUX waveform](images/four_to_one_mux_waveform.png)
 
 ![MUX breadboard implementation](images/mux_breadboard.png)
@@ -47,4 +49,5 @@ digital-logic-verilog/
 │   └── three_to_eight_decoder_tb.v
 │
 └── README.md
+
 
