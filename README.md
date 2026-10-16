@@ -30,7 +30,7 @@ The repository includes Verilog testbenches used to:
 
 ![4-to-1 MUX waveform](images/four_to_one_mux_waveform.png)
 
-![MUX breadboard implementation](images/mux_breadboard.jpg)
+![MUX breadboard implementation](images/mux_breadboard.png)
 
 ## Repository Structure
 
